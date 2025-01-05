@@ -1,6 +1,7 @@
-#include "antenna.h"
 #ifndef MESH_H
 #define MESH_H
+
+#include "antenna.h"
 
 typedef struct
 {
