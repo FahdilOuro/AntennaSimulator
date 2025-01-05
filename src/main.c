@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include "antenna.h"
 #include "mesh.h"
 #include "solver.h"
