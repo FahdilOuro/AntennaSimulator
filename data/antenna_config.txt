@@ -1,0 +1,9 @@
+# Configuration du dipôle
+# Longueur de l'antenne en mètres
+0.5
+
+# Rayon de l'antenne en mètres
+0.005
+
+# Fréquence d'opération en Hertz
+100000000
