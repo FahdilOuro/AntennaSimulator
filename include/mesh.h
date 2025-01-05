@@ -7,7 +7,7 @@ typedef struct
 {
     double* nodes;
     int** edges;
-    int num_node;
+    int num_nodes;
     int num_elements;
 } Mesh;
 
