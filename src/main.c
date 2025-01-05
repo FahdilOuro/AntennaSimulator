@@ -18,4 +18,6 @@ int main() {
     // Nettoyage
     free_mesh(mesh);
     free(currents);
+
+    return 0;
 }
