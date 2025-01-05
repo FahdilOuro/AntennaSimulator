@@ -17,7 +17,7 @@ Mesh generate_mesh(Antenna antenna) {
     double segment_length = antenna.length / num_segments;
     for (int i = 0; i < mesh.nodes; i++)
     {
-        mesh.nodes[i] = -antenna.lenght / 2 + i * segment_length;
+        mesh.nodes[i] = -antenna.length / 2 + i * segment_length;
     }
     
     for (int i = 0; i < mesh.num_elements; i++)
